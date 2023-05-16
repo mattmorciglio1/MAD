@@ -1,2 +1,2 @@
 # MAD
-this is for fingernail art project
+these are the colors for the fingernail art code app inventor game
